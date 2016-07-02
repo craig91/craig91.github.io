@@ -1,0 +1,213 @@
+html {
+	/*height: 100%;
+	/* max-height: 600px; */
+	/*width: 1000px;
+	background-color: hsla(200,40%,30%,.4);
+	background-image:		
+		url('http://www.clker.com/cliparts/q/L/o/j/C/Q/forest-hi.png'), 
+		url('http://www.inserthtml.com/parallax/trees.png'),
+		url('https://db.tt/cKICP4Xj'),
+		url('http://www.augstudy.com/images/theme/impress/bg_mountains.png'),
+		url('https://db.tt/vKBcgeOj');
+	background-repeat: repeat-x;
+	background-position: 
+		0 20%,
+		0 95%,
+		0 0,
+		0 100%,
+		0 0;
+	background-size: 
+		2500px,
+		800px,
+		500px 200px,
+		1000px,
+		400px 260px;
+	animation: 50s para infinite linear;
+	}
+
+@keyframes para {
+	100% {
+		background-position: 
+			-5000px 20%,
+			-800px 95%,
+			500px 0,
+			1000px 100%,
+			400px 0;
+		}*/
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+	background-size: cover;
+	/*background-color: rgb(134, 121, 121);*/
+	background-image: url("../images/05_DarkBacground.png")
+
+}
+
+
+
+header{
+	height: 210px;
+	width: 1200px;
+	text-align: left;
+
+}
+
+.header-left{
+	background-color: transparent;
+	height: 210px;
+	width: 400px;
+	float: left;
+}
+
+.header-center{
+	background-color: transparent;
+	height: 210px;
+	width: 400px;
+	float: left;
+}
+
+.header-right{
+	background-color: transparent;
+	height: 210px;
+	width: 400px;
+	float: left;
+
+}
+
+nav{
+	/*border-top: 1px solid;
+	border-bottom: 1px solid;*/
+	height: 25px;
+	text-align: center;
+	width: 400px;
+	background-color: transparent;
+	margin-top: 40px;
+
+
+}
+
+nav ul{
+	margin-top: 10px;
+	margin-bottom: 2px;
+	padding-left: 0px;
+}
+
+nav li{
+	display: inline;
+	font-size: 23px;
+	font-weight: 700;
+	padding-left: 46px;
+	font-family: "Open Sans",sans-serif;
+	color: silver;
+}
+
+
+.social{
+	float: right;
+	height: 60px;
+	margin-bottom: 200px;
+	margin-top: 20px;
+	width: 242px;
+	background-color: transparent;
+}
+
+.body-plus{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: 700;
+	text-transform: none;
+	color: #998675;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*header{
+	background-color: none;
+	height: 210px;
+	width: 1265px;
+}
+
+nav{
+	color: white;
+    height: 10px;
+    text-align: left;
+    width: 1200px;
+}
+
+nav ul{
+	margin-bottom: 0px;
+	margin-top: -217px;
+	padding-left: 0px;
+	padding-top: 13px;
+
+}
+
+nav li{
+	display: inline;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 700px;
+	padding-left: 80px;
+	padding-right: 60px;
+
+
+
+
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color: yellow;
+}
+
+.content{
+   width: 1280px
+   padding-left:0px;
+ 
+}
+
+.bar{
+	height: 50px;
+	width: 1200px;
+	opacity: 0.82;
+	background-color:gray;
+}*/
+
+	

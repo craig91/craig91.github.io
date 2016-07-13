@@ -105,7 +105,7 @@ nav ul{
 
 nav li{
 	display: inline;
-	font-size: 23px;
+	font-size: 22px;
 	font-weight: 700;
 	padding-left: 46px;
 	font-family: "Open Sans",sans-serif;
@@ -124,7 +124,7 @@ nav li{
 
 .body-plus{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
+	font-size: 12px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: 700;
@@ -132,13 +132,67 @@ nav li{
 	color: #998675;
 }
 
+.category1{
+	background-color: transparent;
+    clear: both;
+    margin-bottom: 75px;
+    padding-top: 50px;
+    vertical-align: top;
+}
+
+.headline{
+	padding-bottom: 15px;
+    text-align: center;
+    vertical-align: top;
+}
 
 
+.title{
+	color: white;
+    font-family: "Libre Baskerville",serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 15px;
+    text-align: center;
+    text-transform: none;
+    vertical-align: top;
+
+}
 
 
+hr {
+	margin-bottom: 50px;
+    margin-top: 0;
+    width: 210px;
+}
 
 
+.me{
+	float: left;
+	padding-bottom: 75px
+	padding-top: 0;
 
+}
+
+.about-info{
+	float: right;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-top: 0;
+    width: 888px;
+}
+
+.body{
+	color: #ffffff;
+    font-family: "Arial Black",Gadget,sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    text-transform: none;
+}
 
 
 

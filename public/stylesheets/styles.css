@@ -207,6 +207,49 @@ hr {
 }
 
 
+/********************************************PORTFOLIO****************************************************************/
+
+.header-left2{
+	background-color: transparent;
+	height:210px;
+	width: 300px;
+
+}
+
+.box{
+	margin-top: 90px;
+}
+
+.side-content{
+	color: white;
+	font-family: sans-serif;
+}
+
+.content{
+	padding-left: 517px;
+	text-align: center;
+}
+
+.Mentoku-Ramen{
+font-family: sans-serif;
+letter-spacing: 0.2em;
+}
+
+.description{
+	font-family: sans-serif;
+	letter-spacing: 0.2em;
+
+}
+
+/*.nav2{
+	padding-left: 0px;
+
+}
+*/
+.home{
+	padding-left: 0px
+
+}
 
 
 

@@ -180,7 +180,7 @@ hr {
     padding-bottom: 25px;
     padding-left: 20px;
     padding-top: 0;
-    width: 888px;
+    width: 830px;
 }
 
 .body{
@@ -194,6 +194,17 @@ hr {
     text-transform: none;
 }
 
+.tech{
+	color: white
+
+}
+
+
+.skills{
+	font-size: 28px;
+	font-family: sans-serif;
+
+}
 
 
 

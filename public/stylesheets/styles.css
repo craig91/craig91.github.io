@@ -1,50 +1,6 @@
 html {
-	/*height: 100%;
-	/* max-height: 600px; */
-	/*width: 1000px;
-	background-color: hsla(200,40%,30%,.4);
-	background-image:		
-		url('http://www.clker.com/cliparts/q/L/o/j/C/Q/forest-hi.png'), 
-		url('http://www.inserthtml.com/parallax/trees.png'),
-		url('https://db.tt/cKICP4Xj'),
-		url('http://www.augstudy.com/images/theme/impress/bg_mountains.png'),
-		url('https://db.tt/vKBcgeOj');
-	background-repeat: repeat-x;
-	background-position: 
-		0 20%,
-		0 95%,
-		0 0,
-		0 100%,
-		0 0;
-	background-size: 
-		2500px,
-		800px,
-		500px 200px,
-		1000px,
-		400px 260px;
-	animation: 50s para infinite linear;
+
 	}
-
-@keyframes para {
-	100% {
-		background-position: 
-			-5000px 20%,
-			-800px 95%,
-			500px 0,
-			1000px 100%,
-			400px 0;
-		}*/
-	}
-
-
-
-
-
-
-
-
-
-
 
 
 body{
@@ -96,6 +52,13 @@ nav{
 
 
 }
+
+nav a{
+	color: #A9A9A9;
+	text-decoration: none;
+	/*float: left;*/
+}
+
 
 nav ul{
 	margin-top: 10px;
@@ -241,11 +204,7 @@ letter-spacing: 0.2em;
 
 }
 
-/*.nav2{
-	padding-left: 0px;
 
-}
-*/
 .home{
 	padding-left: 0px
 
@@ -258,64 +217,3 @@ letter-spacing: 0.2em;
 
 
 
-
-
-
-
-
-
-
-/*header{
-	background-color: none;
-	height: 210px;
-	width: 1265px;
-}
-
-nav{
-	color: white;
-    height: 10px;
-    text-align: left;
-    width: 1200px;
-}
-
-nav ul{
-	margin-bottom: 0px;
-	margin-top: -217px;
-	padding-left: 0px;
-	padding-top: 13px;
-
-}
-
-nav li{
-	display: inline;
-	font-size: 16px;
-	font-family: sans-serif;
-	font-weight: 700px;
-	padding-left: 80px;
-	padding-right: 60px;
-
-
-
-
-}
-
-nav a{
-	display: inline-block;
-	text-decoration: none;
-	color: yellow;
-}
-
-.content{
-   width: 1280px
-   padding-left:0px;
- 
-}
-
-.bar{
-	height: 50px;
-	width: 1200px;
-	opacity: 0.82;
-	background-color:gray;
-}*/
-
-	

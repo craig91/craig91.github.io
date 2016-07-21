@@ -26,17 +26,17 @@ header{
 	float: left;
 }
 
-.header-center{
+/*.header-center{
 	background-color: transparent;
 	height: 210px;
 	width: 400px;
-	float: left;
+	float: left;*/
 }
 
 .header-right{
 	background-color: transparent;
 	height: 210px;
-	width: 400px;
+	width: 800px;
 	float: left;
 
 }
@@ -46,7 +46,7 @@ nav{
 	border-bottom: 1px solid;*/
 	height: 25px;
 	text-align: center;
-	width: 400px;
+	width: 457px;
 	background-color: transparent;
 	margin-top: 40px;
 
@@ -189,18 +189,23 @@ hr {
 }
 
 .content{
-	padding-left: 517px;
+	padding-left: 0px;
 	text-align: center;
+	color: #ffffff;
+
 }
 
 .Mentoku-Ramen{
 font-family: sans-serif;
 letter-spacing: 0.2em;
+color: #a9a9a9
+text-decoration: none;
 }
 
 .description{
 	font-family: sans-serif;
 	letter-spacing: 0.1em;
+	font-size: 28px;
 
 }
 

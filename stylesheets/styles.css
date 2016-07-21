@@ -1,0 +1,224 @@
+html {
+
+	}
+
+
+body{
+	background-size: cover;
+	/*background-color: rgb(134, 121, 121);*/
+	background-image: url("../images/05_DarkBacground.png")
+
+}
+
+
+
+header{
+	height: 210px;
+	width: 1200px;
+	text-align: left;
+
+}
+
+.header-left{
+	background-color: transparent;
+	height: 210px;
+	width: 400px;
+	float: left;
+}
+
+/*.header-center{
+	background-color: transparent;
+	height: 210px;
+	width: 400px;
+	float: left;*/
+}
+
+.header-right{
+	background-color: transparent;
+	height: 210px;
+	width: 800px;
+	float: left;
+
+}
+
+nav{
+	/*border-top: 1px solid;
+	border-bottom: 1px solid;*/
+	height: 25px;
+	text-align: center;
+	width: 457px;
+	background-color: transparent;
+	margin-top: 40px;
+
+
+}
+
+nav a{
+	color: #A9A9A9;
+	text-decoration: none;
+	/*float: left;*/
+}
+
+
+nav ul{
+	margin-top: 10px;
+	margin-bottom: 2px;
+	padding-left: 0px;
+}
+
+nav li{
+	display: inline;
+	font-size: 22px;
+	font-weight: 700;
+	padding-left: 46px;
+	font-family: "Open Sans",sans-serif;
+	color: silver;
+}
+
+
+.social{
+	float: right;
+	height: 60px;
+	margin-bottom: 200px;
+	margin-top: 20px;
+	width: 242px;
+	background-color: transparent;
+}
+
+.body-plus{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: 700;
+	text-transform: none;
+	color: #998675;
+}
+
+.category1{
+	background-color: transparent;
+    clear: both;
+    margin-bottom: 75px;
+    padding-top: 50px;
+    vertical-align: top;
+}
+
+.headline{
+	padding-bottom: 15px;
+    text-align: center;
+    vertical-align: top;
+}
+
+
+.title{
+	color: white;
+    font-family: "Libre Baskerville",serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 15px;
+    text-align: center;
+    text-transform: none;
+    vertical-align: top;
+
+}
+
+
+hr {
+	margin-bottom: 50px;
+    margin-top: 0;
+    width: 210px;
+}
+
+
+.me{
+	float: left;
+	padding-bottom: 75px
+	padding-top: 0;
+
+}
+
+.about-info{
+	float: right;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-top: 0;
+    width: 830px;
+}
+
+.body{
+	color: #ffffff;
+    font-family: "Arial Black",Gadget,sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.tech{
+	color: white
+
+}
+
+
+.skills{
+	font-size: 28px;
+	font-family: sans-serif;
+
+}
+
+
+/********************************************PORTFOLIO****************************************************************/
+
+.header-left2{
+	background-color: transparent;
+	height:210px;
+	width: 300px;
+
+}
+
+.box{
+	margin-top: 90px;
+}
+
+.side-content{
+	color: white;
+	font-family: sans-serif;
+}
+
+.content{
+	padding-left: 0px;
+	text-align: center;
+	color: #ffffff;
+
+}
+
+.Mentoku-Ramen{
+font-family: sans-serif;
+letter-spacing: 0.2em;
+color: #a9a9a9
+text-decoration: none;
+}
+
+.description{
+	font-family: sans-serif;
+	letter-spacing: 0.1em;
+	font-size: 28px;
+
+}
+
+
+.home{
+	padding-left: 0px
+
+}
+
+
+
+
+
+
+
+

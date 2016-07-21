@@ -1,2 +1,0 @@
-# craig-dejean
-Personal Website

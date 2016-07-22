@@ -5,14 +5,75 @@ html {
 
 body{
 	background-size: cover;
-	/*background-color: rgb(134, 121, 121);*/
-	background-image: url("../images/05_DarkBacground.png")
+	background-color: black;
+	/*background-image: url("../images/05_DarkBacground.png")*/
 
 }
 
 
 
-header{
+
+#main{
+	width: 100%;
+	height:auto;
+	margin: 0 auto 2% auto;
+	background-size: cover;
+	background-position: 50% 20%;
+	padding-top: 50vh;
+	padding-bottom: 50vh;
+}
+
+#main h1{
+	text-align: center;
+	font-size: 3em;
+
+}
+
+nav{
+	position: fixed;
+	top:0px;
+	left: 0px;
+	margin:0 auto;
+	width: 100%;
+	background-color: #222;
+	opacity: 0.52;
+
+}
+
+nav ul{
+	list-style-type: none;
+	text-align:center;
+	float: left;
+}
+
+nav ul li{
+	display: inline-block;
+	text-align: center;
+	padding: 20px;
+	height: 2%;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+nav ul li a:hover, nav ul li a:active{
+border-bottom: 2px solid #ccc;
+padding-bottom: 8px;
+}
+
+.social-bar{
+	height: 60px;
+	margin-top: 25px;
+	/*padding-left: 85%;*/
+	float: right;
+	padding-right: 30px;
+
+}
+
+
+/*header{
 	height: 210px;
 	width: 1200px;
 	text-align: left;
@@ -26,11 +87,11 @@ header{
 	float: left;
 }
 
-/*.header-center{
+.header-center{
 	background-color: transparent;
 	height: 210px;
 	width: 400px;
-	float: left;*/
+	float: left;
 }
 
 .header-right{
@@ -39,28 +100,28 @@ header{
 	width: 800px;
 	float: left;
 
-}
+}*/
 
-nav{
+/*nav{
 	/*border-top: 1px solid;
 	border-bottom: 1px solid;*/
-	height: 25px;
+/*	height: 25px;
 	text-align: center;
 	width: 457px;
 	background-color: transparent;
 	margin-top: 40px;
 
 
-}
+}*/
 
-nav a{
+/*nav a{
 	color: #A9A9A9;
-	text-decoration: none;
+	text-decoration: none;*/
 	/*float: left;*/
-}
+/*}*/
 
 
-nav ul{
+/*nav ul{
 	margin-top: 10px;
 	margin-bottom: 2px;
 	padding-left: 0px;
@@ -73,10 +134,10 @@ nav li{
 	padding-left: 46px;
 	font-family: "Open Sans",sans-serif;
 	color: silver;
-}
+}*/
 
 
-.social{
+/*.social{
 	float: right;
 	height: 60px;
 	margin-bottom: 200px;
@@ -93,7 +154,7 @@ nav li{
 	font-weight: 700;
 	text-transform: none;
 	color: #998675;
-}
+}*/
 
 .category1{
 	background-color: transparent;
@@ -107,6 +168,7 @@ nav li{
 	padding-bottom: 15px;
     text-align: center;
     vertical-align: top;
+    margin-top: 60px;
 }
 
 
@@ -172,21 +234,21 @@ hr {
 
 /********************************************PORTFOLIO****************************************************************/
 
-.header-left2{
+/*.header-left2{
 	background-color: transparent;
 	height:210px;
 	width: 300px;
 
-}
+}*/
 
 .box{
 	margin-top: 90px;
 }
 
-.side-content{
+./*side-content{
 	color: white;
 	font-family: sans-serif;
-}
+}*/
 
 .content{
 	padding-left: 0px;

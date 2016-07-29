@@ -7,7 +7,7 @@ body{
 	background-size: cover;
 	background-color: black;
 	/*background-image: url("../images/05_DarkBacground.png")*/
-
+    font-family: 'Concert One', cursive;
 }
 
 
@@ -71,93 +71,7 @@ padding-bottom: 8px;
 	padding-right: 30px;
 
 }
-/*.img1{
-	box-shadow: 10px 10px 5px #888888;
-}
-*/
 
-/*header{
-	height: 210px;
-	width: 1200px;
-	text-align: left;
-
-}
-
-.header-left{
-	background-color: transparent;
-	height: 210px;
-	width: 400px;
-	float: left;
-}
-
-.header-center{
-	background-color: transparent;
-	height: 210px;
-	width: 400px;
-	float: left;
-}
-
-.header-right{
-	background-color: transparent;
-	height: 210px;
-	width: 800px;
-	float: left;
-
-}*/
-
-/*nav{
-	/*border-top: 1px solid;
-	border-bottom: 1px solid;*/
-/*	height: 25px;
-	text-align: center;
-	width: 457px;
-	background-color: transparent;
-	margin-top: 40px;
-
-
-}*/
-
-/*nav a{
-	color: #A9A9A9;
-	text-decoration: none;*/
-	/*float: left;*/
-/*}*/
-
-
-/*nav ul{
-	margin-top: 10px;
-	margin-bottom: 2px;
-	padding-left: 0px;
-}
-
-nav li{
-	display: inline;
-	font-size: 22px;
-	font-weight: 700;
-	padding-left: 46px;
-	font-family: "Open Sans",sans-serif;
-	color: silver;
-}*/
-
-
-/*.social{
-	float: right;
-	height: 60px;
-	margin-bottom: 200px;
-	margin-top: 20px;
-	width: 242px;
-	background-color: transparent;
-}
-
-.body-plus{
-	font-family: 'Open Sans', sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: 700;
-	text-transform: none;
-	color: #998675;
-}*/
 
 .category1{
 	background-color: transparent;
@@ -208,7 +122,7 @@ hr {
     padding-bottom: 25px;
     padding-left: 20px;
     padding-top: 0;
-    width: 830px;
+    width: 750px;
 }
 
 .body{

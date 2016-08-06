@@ -5,10 +5,63 @@ html {
 
 body{
 	background-size: cover;
-	background-color: black;
-	/*background-image: url("../images/05_DarkBacground.png")*/
+	/*background-color: black;*/
+	background-image: url(../images/code_back.jpg);
     font-family: 'Concert One', cursive;
+    background-size: 100%;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+
 }
+
+
+
+.box-1{
+	height: 686px;
+	width: auto;
+	background-color: red;
+	opacity: 0.50;
+	margin-top: 10%;
+
+
+
+}
+
+
+.box-2{
+	background-color: grey;
+	height: 686px;
+	width: auto;
+	opacity: 0.50;
+	margin-top: 15%;
+}
+
+
+.box-3{
+	background-color: black;
+	height: 772px;
+	width: auto;
+	opacity: 0.50;
+	margin-top:20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -59,7 +112,7 @@ nav ul li a{
 	padding: 20px;
 }
 nav ul li a:hover, nav ul li a:active{
-border-bottom: 2px solid #ccc;
+/*border-bottom: 1px solid #ccc;*/
 padding-bottom: 8px;
 }
 
@@ -79,6 +132,13 @@ padding-bottom: 8px;
     margin-bottom: 75px;
     padding-top: 50px;
     vertical-align: top;
+}
+
+.box-color1{
+	background-color: gray;
+	opacity: 0.52;
+	height: auto;
+	width: auto;
 }
 
 .headline{

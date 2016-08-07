@@ -2,188 +2,84 @@ html {
 
 	}
 
+*{
+	font-family: 'Laila', serif;
+}
+
+
+
+
+
+
 
 body{
+
 	background-size: cover;
-	/*background-color: black;*/
-	background-image: url(../images/code_back.jpg);
-    font-family: 'Concert One', cursive;
+	background-color: black;
+/*	background-image: url(../images/little_bsd.jpg);
+    /*font-family: 'Concert One', cursive;
     background-size: 100%;
     background-repeat: no-repeat; 
-    background-attachment: fixed;
+    background-attachment: fixed;*/
 
 }
 
 
 
-.box-1{
-	height: 686px;
-	width: auto;
-	background-color: red;
-	opacity: 0.50;
-	margin-top: 10%;
-
-
-
-}
-
-
-.box-2{
-	background-color: grey;
-	height: 686px;
-	width: auto;
-	opacity: 0.50;
-	margin-top: 15%;
-}
-
-
-.box-3{
-	background-color: black;
-	height: 772px;
-	width: auto;
-	opacity: 0.50;
-	margin-top:20%;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#main{
+.top-box{
 	width: 100%;
-	height:auto;
-	margin: 0 auto 2% auto;
-	background-size: cover;
-	background-position: 50% 20%;
-	padding-top: 50vh;
-	padding-bottom: 50vh;
+	height: 200px;
+	/*position: relative;*/
 }
 
-#main h1{
-	text-align: center;
-	font-size: 3em;
-
+.top-box img{
+	height: 500px;
+	width: 100%;
 }
 
-nav{
+.top-box p{
+	color: white;
 	position: absolute;
-	top:0px;
-	left: 0px;
-	margin:0 auto;
+	top: 200px;
 	width: 100%;
-	background-color: #222;
-	opacity: 0.52;
-
-}
-
-nav ul{
-	list-style-type: none;
-	text-align:center;
-	float: left;
-}
-
-nav ul li{
-	display: inline-block;
+	left: 0;
 	text-align: center;
-	padding: 20px;
-	height: 2%;
+	margin-top: 260px;
+	font-size: 35px;
 }
 
-nav ul li a{
-	text-decoration: none;
+.float-text{
 	color: white;
-	padding: 20px;
+	position: absolute;
+	top: 200px;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	margin-top: -160px;
+	font-family: 'Laila', serif;
 }
-nav ul li a:hover, nav ul li a:active{
-/*border-bottom: 1px solid #ccc;*/
-padding-bottom: 8px;
-}
-
-.social-bar{
-	height: 60px;
-	margin-top: 25px;
-	/*padding-left: 85%;*/
-	float: right;
-	padding-right: 30px;
-
-}
-
-
-.category1{
-	background-color: transparent;
-    clear: both;
-    margin-bottom: 75px;
-    padding-top: 50px;
-    vertical-align: top;
-}
-
-.box-color1{
-	background-color: gray;
-	opacity: 0.52;
-	height: auto;
-	width: auto;
-}
-
-.headline{
-	padding-bottom: 15px;
-    text-align: center;
-    vertical-align: top;
-    margin-top: 60px;
-}
-
-
-.title{
-	color: white;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    font-size: 50px;
-    font-style: normal;
-    font-weight: 400;
-    padding-bottom: 15px;
-    text-align: center;
-    text-transform: none;
-    vertical-align: top;
-
-}
-
-
-hr {
-	margin-bottom: 50px;
-    margin-top: 0;
-    width: 210px;
-}
-
 
 .me{
 	float: left;
-	padding-bottom: 75px
-	padding-top: 0;
+	padding-bottom: 75px;
+	padding-left: 435px;
+	margin-top: 350px;
+}
+
+
+.low-nav{
+
 
 }
 
-.about-info{
-	float: right;
-    padding-bottom: 25px;
-    padding-left: 20px;
-    padding-top: 0;
-    width: 750px;
+.social-bar {
+	height: 60px;
+	margin-top: 25px;
+	float: left;
+	padding-left: 500px;
+
 }
+
 
 .body{
 	color: #ffffff;
@@ -194,70 +90,12 @@ hr {
     line-height: normal;
     text-decoration: none;
     text-transform: none;
-}
-
-.tech{
-	color: white
-
+    float: right;
 }
 
 
-.skills{
-	font-size: 28px;
-	font-family: sans-serif;
-
-}
 
 
-/********************************************PORTFOLIO****************************************************************/
-
-/*.header-left2{
-	background-color: transparent;
-	height:210px;
-	width: 300px;
-
-}*/
-
-.box{
-	margin-top: 90px;
-}
-
-./*side-content{
-	color: white;
-	font-family: sans-serif;
-}*/
-
-.content{
-	padding-left: 0px;
-	text-align: center;
-	color: #ffffff;
-
-}
-
-.Mentoku-Ramen{
-font-family: sans-serif;
-letter-spacing: 0.2em;
-color: #a9a9a9
-text-decoration: none;
-}
-
-.description{
-	font-family: sans-serif;
-	letter-spacing: 0.1em;
-	font-size: 28px;
-	color: white;
-
-}
-
-
-.home{
-	padding-left: 0px
-
-}
-
-.content2{
-	text-align: center;
-}
 
 
 

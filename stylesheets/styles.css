@@ -16,9 +16,9 @@ body{
 
 	background-size: cover;
 	background-color: black;
-/*	background-image: url(../images/little_bsd.jpg);
-    /*font-family: 'Concert One', cursive;
-    background-size: 100%;
+	/*background-image: url(../images/little_bsd.jpg);
+    /*font-family: 'Concert One', cursive;*/
+    /*background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;*/
 
@@ -26,18 +26,18 @@ body{
 
 
 
-.top-box{
+#top-box{
 	width: 100%;
 	height: 200px;
 	/*position: relative;*/
 }
 
-.top-box img{
+#top-box img{
 	height: 500px;
 	width: 100%;
 }
 
-.top-box p{
+#top-box p{
 	color: white;
 	position: absolute;
 	top: 200px;
@@ -48,7 +48,7 @@ body{
 	font-size: 35px;
 }
 
-.float-text{
+#float-text{
 	color: white;
 	position: absolute;
 	top: 200px;
@@ -64,6 +64,7 @@ body{
 	padding-bottom: 75px;
 	padding-left: 466px;
 	margin-top: 350px;
+
 }
 
 
@@ -94,7 +95,12 @@ body{
 }
 
 @media (min-width:300px) and (max-width: 700px) {
-	.me {
+  body{
+		width:
+	}
+
+
+	/*.me {
 		float: left;
 		padding-bottom: 75px;
 		padding-left: 115px;
@@ -107,6 +113,51 @@ body{
 		float: left;
 		padding-left: 231px;
 
+	}*/
+
+
+}
+
+@media (min-width:2560px) and (max-width: 4000px) {
+	#float-text{
+		  color: white;
+			position: absolute;
+			top: 200px;
+			left: 0;
+			width: 100%;
+			text-align: center;
+			margin-top: 15px;
+			font-family: 'Laila', serif;
+	}
+	#top-box img {
+		height: 1200px;
+		width: 100%;
+	}
+	#top-box p {
+		color: white;
+		position: absolute;
+		top: 200px;
+		width: 100%;
+		left: 0;
+		text-align: center;
+		margin-top: 700px;
+		font-size: 35px;
+	}
+	.me {
+		padding-left: 1050px;
+		margin-top: 1000px;
+	}
+	.social-bar {
+		padding-left: 1140px;
 	}
 
 }
+
+/*img{
+	width: 100%;
+
+}*/
+/*.social-bar{
+	width: 100%;
+
+}*/

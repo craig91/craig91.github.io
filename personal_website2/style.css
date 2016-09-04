@@ -1,14 +1,15 @@
 html, body{
-  background-image: url(images/js_background.jpg);
-  background-attachment: fixed;
-  background-size: 100%;
+	background-image: url(https://hd.unsplash.com/photo-1454165205744-3b78555e5572);
+	background-size: 100%;
+	background-attachment: fixed;
 }
+
 
 .firstdiv{
 	width: auto;
 	height: 85px;
 	background-color: #1a1a1a;
-	opacity: 0.7;
+	/*opacity: 0.9;*/
 }
 
 /* MEDIA QUERY TO HIDE BACKGROUND PICTURE  */
@@ -22,8 +23,8 @@ html, body{
 .divtwo{
 	width: auto;
 	height: auto;
-	background-color: #BCC6CC;
-	opacity: 0.6;
+	background-color: white;
+	opacity: 0.8;
 }
 
 #quote{
@@ -31,6 +32,7 @@ html, body{
 	margin-bottom: 150px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: bolder;
+	font-size: 50px;
 }
 
 .divthree{
@@ -40,14 +42,14 @@ html, body{
 	opacity: 0.9;
 }
 
-/*.box{
+.box{
 	width: 300px;
 	height: auto;
 	background-color: #1a1a1a;
 	margin-top: 100px;
 	padding: 10px;
 	margin-bottom: 100px;
-}*/
+}
 
 #boxheading{
 	color: white;
@@ -99,7 +101,7 @@ html, body{
 	width: auto;
 	height: 200px;
 	background-color: black;
-	opacity: 0.9;
+	/*opacity: 0.9;*/
 }
 
 #footertext{
@@ -117,3 +119,50 @@ html, body{
 	opacity: 0.9;
 	margin-top: 50px;
 }
+
+.otherskills{
+	width: auto;
+	height: auto;
+	background-color: #1a1a1a;
+}
+
+
+
+.leftbox{
+	width: auto;
+	height: 300px;
+	background-color: white;
+	margin-bottom: 20px;
+}
+
+.rightbox{
+	width: auto;
+	height: 300px;
+	background-color: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.skillul{
+	padding:50px;
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+#bannerpic{
+	opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,6 +2,8 @@ html, body{
 	background-image: url(https://hd.unsplash.com/photo-1454165205744-3b78555e5572);
 	background-size: 100%;
 	background-attachment: fixed;
+	max-width: 1920px;
+	margin: 0 auto;
 }
 
 
@@ -152,17 +154,3 @@ html, body{
 #bannerpic{
 	opacity: 0.8;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

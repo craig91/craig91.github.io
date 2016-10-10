@@ -10,13 +10,13 @@ html, body {
 
 body{
    margin: 0;
-	  /*background-size: cover;*/
- 	  /*background-color: black;*/
-  	/*background-image: url(../images/code_back.jpg);*/
-    /*font-family: 'Concert One', cursive;*/
-    /*background-size: 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;*/
+   /*background-size: cover;*/
+   /*background-color: black;*/
+   /*background-image: url(../images/code_back.jpg);*/
+   /*font-family: 'Concert One', cursive;*/
+   /*background-size: 100%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;*/
 
 }
 
@@ -30,7 +30,7 @@ header{
 }
 
 .social-bar {
-  margin-top: -50px;
+        margin-top: -50px;
 	float: right;
 }
 /****************** End of Header and Social Bar **********************/
@@ -41,7 +41,7 @@ header{
 	background-color: transparent;
 	width: 100%;
 	height: 500px;
-  position: relative;
+        position: relative;
 	overflow: hidden;
 }
 

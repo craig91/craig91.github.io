@@ -1,4 +1,4 @@
-html, body {
+html{
 	/*margin: 0, auto;*/
 
 	}
@@ -30,7 +30,7 @@ header{
 }
 
 .social-bar {
-        margin-top: -50px;
+  margin-top: -70px;
 	float: right;
 }
 /****************** End of Header and Social Bar **********************/
@@ -41,7 +41,7 @@ header{
 	background-color: transparent;
 	width: 100%;
 	height: 500px;
-        position: relative;
+  position: relative;
 	overflow: hidden;
 }
 
@@ -61,7 +61,7 @@ video{
 .overlay{
 	z-index: 1;
 	background: rgba(0, 0, 0, 0.5);
-	height: 500px;
+	height: 100%;
 }
 
 
@@ -74,7 +74,12 @@ video{
 	justify-content: center;
 	font-size: 25px;
 	color: white;
+	opacity: 0;
+}
 
+.text.show {
+	opacity: 1;
+	transition: opacity 5s;
 }
 
 /****************** End of Video Div & Overlays **********************/
@@ -104,6 +109,29 @@ video{
     margin-top: 0px;
     margin-bottom: 50px;
 }
+
+section {
+	height: 890px;
+	padding-top: 50px;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+}
+
+#home{
+	background-image:url(../images/hello_world.jpg);
+}
+
+#nix{
+	background-image: url(../images/unix.png);
+}
+
+.sec-overlay{
+	z-index: 1;
+	background: rgba(0, 0, 0, 0.5);
+	height: 890px;
+}
+
 
 
 /******************** Experience Row *******************/

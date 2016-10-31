@@ -1,3 +1,5 @@
-// $(document).ready(function () {
-//     $('div.text').fadeIn(1000).removeClass('hidden');
-// });
+$(document).ready(function () {
+  setTimeout(function(){
+    $('div.text').addClass('show')
+  }, 2000);
+});
